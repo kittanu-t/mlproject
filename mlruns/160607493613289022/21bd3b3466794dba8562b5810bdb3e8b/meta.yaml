@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/21bd3b3466794dba8562b5810bdb3e8b/artifacts
+end_time: 1760272435346
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: 21bd3b3466794dba8562b5810bdb3e8b
+run_name: 'cnb-{''alpha'': 0.6666666666666666}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760272434991
+status: 3
+tags: []
+user_id: User

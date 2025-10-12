@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/dbe07f95370d49609de9d2f96e7cf80e/artifacts
+end_time: 1760272568020
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: dbe07f95370d49609de9d2f96e7cf80e
+run_name: 'cv-linear_svc-{''C'': 0.05, ''cw'': ''balanced''}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760272553424
+status: 3
+tags: []
+user_id: User

@@ -1,26 +1,29 @@
+# ---- Basic Python cache ----
 __pycache__/
 *.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
 .venv/
 env/
-ENV/
 venv/
-.ipynb_checkpoints/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# ---- IDE settings ----
 .vscode/
 .idea/
-.cache/
-.pytest_cache/
-htmlcov/
-.tox/
-.nox/
-mlruns/
-*.pkl
-*.joblib
-*.model
-data/raw/
+
+# ---- OS junk files ----
 .DS_Store
 Thumbs.db
 
-# อนุญาตให้มีโครง processed_data แต่ไม่ track ไฟล์ผลลัพธ์
-processed_data/*
-!processed_data/.gitkeep
-!processed_data/README.md
+# ---- Optional: Jupyter checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Optional: logs & temporary outputs ----
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,1 @@
+FeatureUnion(word[1,3]+char[3,6])

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/bdafa71f29f94862adeb9c62142cd1cb/artifacts
+end_time: 1760273478020
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: bdafa71f29f94862adeb9c62142cd1cb
+run_name: ModelTraining
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760273386370
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/1c73e0ed7d794fe08f9cebe87ddf97ad/artifacts
+end_time: 1760273986944
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: 1c73e0ed7d794fe08f9cebe87ddf97ad
+run_name: DataPreprocessing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760273980914
+status: 3
+tags: []
+user_id: User

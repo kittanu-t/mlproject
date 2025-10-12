@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/models/m-8792e0a3eed544bf963ef7a9c8c637e6/artifacts
+creation_timestamp: 1760271330773
+experiment_id: '160607493613289022'
+last_updated_timestamp: 1760271333761
+model_id: m-8792e0a3eed544bf963ef7a9c8c637e6
+model_type: null
+name: model
+source_run_id: 982e332d54934178805733e1df1f9949
+status: 2
+status_message: null

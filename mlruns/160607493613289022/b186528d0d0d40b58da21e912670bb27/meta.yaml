@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/b186528d0d0d40b58da21e912670bb27/artifacts
+end_time: 1760271533716
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: b186528d0d0d40b58da21e912670bb27
+run_name: 'logreg-{''C'': 0.5}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760271533179
+status: 3
+tags: []
+user_id: User

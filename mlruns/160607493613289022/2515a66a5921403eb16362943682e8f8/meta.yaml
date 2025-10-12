@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/mlproject/mlruns/160607493613289022/2515a66a5921403eb16362943682e8f8/artifacts
+end_time: 1760272121788
+entry_point_name: ''
+experiment_id: '160607493613289022'
+lifecycle_stage: active
+run_id: 2515a66a5921403eb16362943682e8f8
+run_name: 'sgd_log-{''alpha'': 0.02}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760272121378
+status: 3
+tags: []
+user_id: User
