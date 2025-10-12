@@ -1,52 +1,26 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Virtual environments
 .venv/
 env/
 ENV/
 venv/
-env.bak/
-venv.bak/
-.env
-
-# Build & packaging
-build/
-dist/
-*.egg-info/
-.eggs/
-
-# Logs / Cache / Reports
-*.log
-*.tmp
-*.bak
-*.swp
+.ipynb_checkpoints/
+.vscode/
+.idea/
 .cache/
 .pytest_cache/
-.ipynb_checkpoints/
 htmlcov/
 .tox/
 .nox/
-
-# VSCode / IDE
-.vscode/
-.idea/
-
-# Data & model artifacts
-# (❗เก็บเฉพาะไฟล์ต้นฉบับ dataset และ pipeline scripts)
-data/raw/
-mlruns/                 # MLflow tracking (local only)
-*.joblib                # model/vectorizer dumps
+mlruns/
 *.pkl
+*.joblib
 *.model
+data/raw/
+.DS_Store
+Thumbs.db
 
-# 👉 Allow processed_data folder but ignore big outputs
+# อนุญาตให้มีโครง processed_data แต่ไม่ track ไฟล์ผลลัพธ์
 processed_data/*
 !processed_data/.gitkeep
 !processed_data/README.md
-
-# OS junk files
-.DS_Store
-Thumbs.db
