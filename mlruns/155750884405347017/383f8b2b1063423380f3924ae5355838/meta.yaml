@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ACE/Desktop/mlops/mlruns/155750884405347017/383f8b2b1063423380f3924ae5355838/artifacts
+end_time: 1760859922751
+entry_point_name: ''
+experiment_id: '155750884405347017'
+lifecycle_stage: active
+run_id: 383f8b2b1063423380f3924ae5355838
+run_name: skillful-bee-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760859922205
+status: 3
+tags: []
+user_id: ACE

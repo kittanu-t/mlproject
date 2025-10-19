@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ACE/Desktop/mlops/mlruns/344314048137120245/a25fa2ce4b36401183c152fa8a49b1b5/artifacts
+end_time: 1760863697899
+entry_point_name: ''
+experiment_id: '344314048137120245'
+lifecycle_stage: active
+run_id: a25fa2ce4b36401183c152fa8a49b1b5
+run_name: cnn_epochs_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760860239056
+status: 3
+tags: []
+user_id: ACE

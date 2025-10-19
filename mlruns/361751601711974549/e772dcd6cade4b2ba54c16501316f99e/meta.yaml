@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ACE/Desktop/mlops/mlruns/361751601711974549/e772dcd6cade4b2ba54c16501316f99e/artifacts
+end_time: 1760860038993
+entry_point_name: ''
+experiment_id: '361751601711974549'
+lifecycle_stage: active
+run_id: e772dcd6cade4b2ba54c16501316f99e
+run_name: kindly-flea-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760860036269
+status: 3
+tags: []
+user_id: ACE

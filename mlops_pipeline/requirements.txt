@@ -1,8 +1,5 @@
 mlflow
 scikit-learn
 pandas
-nltk
-flask
-gunicorn
-flake8
-pytest
+numpy<2.0
+tensorflow

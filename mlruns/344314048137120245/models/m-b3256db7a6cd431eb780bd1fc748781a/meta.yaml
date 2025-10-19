@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ACE/Desktop/mlops/mlruns/344314048137120245/models/m-b3256db7a6cd431eb780bd1fc748781a/artifacts
+creation_timestamp: 1760863683127
+experiment_id: '344314048137120245'
+last_updated_timestamp: 1760863697672
+model_id: m-b3256db7a6cd431eb780bd1fc748781a
+model_type: null
+name: rice_classifier_cnn
+source_run_id: a25fa2ce4b36401183c152fa8a49b1b5
+status: 2
+status_message: null
